@@ -4,6 +4,7 @@ It is the page of the freeCodeCamp Curriculum in the Responsive We Design Certif
 
 You can see this project live at the following URL:
 
+https://zenidith.github.io/surgeon-tribute-page/
 
 Enjoy!
 
